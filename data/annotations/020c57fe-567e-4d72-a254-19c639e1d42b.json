@@ -1,5 +1,102 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 2,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, but it is dirty!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Elizabeth Bishop",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0094758c-48b4-4138-9545-8cc469f22951"
+    },
+    {
+      "start_time": 8,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "to a disturbing, over-all"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Elizabeth Bishop",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "283df52c-eed1-4991-8831-87cd60648118"
+    },
+    {
+      "start_time": 78,
+      "end_time": 83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somebody waters the plant,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience laughter",
+          "category": "Reactions"
+        },
+        {
+          "tag": "Elizabeth Bishop",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "1be34166-bf60-4d43-b0d0-6db5bf67f6db"
+    },
+    {
+      "start_time": 85,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "so that they softly say:"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bishop laughter",
+          "category": "Reactions"
+        },
+        {
+          "tag": "Elizabeth Bishop",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Audience laughter",
+          "category": "Reactions"
+        }
+      ],
+      "uuid": "bdaa82e5-2fa8-4041-8592-ce2737210aec"
+    }
+  ],
   "set": "Default",
   "event_id": "d77e342d-d343-4bbe-8a40-b5860074d982",
   "source_id": "c98475f8-2220-403b-b596-72af55f9dc98"
